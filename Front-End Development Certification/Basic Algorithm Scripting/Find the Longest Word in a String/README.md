@@ -13,7 +13,7 @@ Here are some helpful links:
 * String.prototype.split()
 * String.length
 
-Results:
+### Results:
 1. `findLongestWord("The quick brown fox jumped over the lazy dog”)` should return a number.
 2. `findLongestWord("The quick brown fox jumped over the lazy dog”)` should return 6.
 3. `findLongestWord("May the force be with you”)` should return 5.
