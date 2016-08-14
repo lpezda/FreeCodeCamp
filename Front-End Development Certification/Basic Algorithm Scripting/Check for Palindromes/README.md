@@ -21,7 +21,7 @@ Here are some helpful links:
 * String.prototype.replace()
 * String.prototype.toLowerCase()
 
-Results:
+### Results:
 1. `palindrome("eye”)` should return a boolean.
 2. `palindrome("eye”)` should return true.
 3. `palindrome("_eye”)` should return true.
