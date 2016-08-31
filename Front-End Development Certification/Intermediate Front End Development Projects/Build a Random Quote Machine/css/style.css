@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 60px;
+  background-color: #FFFFFF;
+  color: #3A4A4D;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+#quotebox {
+  width: 30%;
+  margin: auto;
+  background-color: #30C9E8;
+  color: #FFFFFF;
+  padding: 20px 40px;
+}
+
+#quotebox #quotecontainer {
+  font-size: 1.2em;
+  margin-bottom: 60px;
+}
+
+#quotebox #footer a {
+  background-color: #FF4531; 
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+#quotebox #footer #tweet {
+  float: left;
+}
+
+#quotebox #footer #random {
+  float: right;
+}
+
+#quotebox #footer .clear {
+  clear: both;
+  padding-top: 20px;
+}
