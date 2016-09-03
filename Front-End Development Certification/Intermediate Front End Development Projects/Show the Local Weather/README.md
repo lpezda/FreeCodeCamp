@@ -3,7 +3,7 @@
 
 [https://www.freecodecamp.com/challenges/show-the-local-weather](https://www.freecodecamp.com/challenges/show-the-local-weather)
 
-1. Objective: Build a CodePen.io app that is functionally similar to this: http://codepen.io/FreeCodeCamp/full/bELRjV.
+1. Objective: Build a CodePen.io app that is functionally similar to this: [http://codepen.io/FreeCodeCamp/full/bELRjV](http://codepen.io/FreeCodeCamp/full/bELRjV).
 
 2. Rule #1: Don't look at the example project's code. Figure it out for yourself.
 
