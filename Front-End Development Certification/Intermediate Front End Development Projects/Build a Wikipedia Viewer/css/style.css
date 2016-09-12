@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F9FBFB;
+  color: #3A4A4D;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 80px 0;
+}
+
+ a.random {
+  background-color: #FF4531; 
+  color: #FFFFFF;
+  text-decoration: none;
+  margin: 5px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: 700;
+}
+
+.form-wrapper {
+  margin-top: 60px;
+}
+
+input {
+  font-size: 1.2em;
+  font-family: 'Open Sans', sans-serif;
+  border: 1px solid #30C9E8;
+  margin: 0;
+  padding: 10px 20px;
+}
+
+#submit {
+  background-color: #30C9E8;
+  color: #FFFFFF;
+}
+
+#search {
+  margin-right: -5px;
+}
+
+dl {
+  margin:  60px auto;
+  width: 500px;
+}
+
+dt {
+  text-align: left;
+  background-color: #FFFFFF;
+  padding: 15px 0 10px 20px;
+}
+
+dt a {
+  text-decoration: none;
+  color: #FF4531;
+  font-weight: 700;
+}
+
+dd {
+  text-align: left;
+  margin: 0 0 20px 0;
+  background-color: #FFFFFF;
+  padding: 0 20px 15px 20px;
+}
