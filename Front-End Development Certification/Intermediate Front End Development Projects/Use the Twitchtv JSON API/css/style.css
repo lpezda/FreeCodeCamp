@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #FFFFFF;
+  color: #3A4A4D;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 80px 0;
+}
+
+#submit {
+  background-color: #30C9E8;
+  color: #F9FBFB;
+}
+
+ul {
+  margin:  60px auto;
+  padding: 0;
+  width: 400px;
+  list-style-type: none;
+}
+
+li {
+  text-align: left;
+  padding: 15px 20px;
+  margin-bottom: 3px;
+}
+
+li.online {
+  background-color: #30C9E8;
+}
+
+li.offline {
+  background-color: #F9FBFB;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+  margin-bottom: -5px;
+  padding-right: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #FF4531;
+}
