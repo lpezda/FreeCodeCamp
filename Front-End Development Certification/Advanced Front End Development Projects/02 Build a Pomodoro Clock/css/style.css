@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 60px;
+  background-color: #3A4A4D;
+  color: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+#startButton,
+#resetButton,
+#stopButton,
+#resumeButton {
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin: 10px;
+  background-color: #FF4531;
+}
+
+#resetButton {
+  background-color: #30C9E8;
+}
+
+#stopButton,
+#resumeButton {
+  display: none;
+}
+
+#clockContainer {
+  width: 300px;
+  height: 300px;
+  border: 1px solid #30C9E8;
+  border-radius: 50%;
+  margin: 40px auto;
+}
+
+#timeText {
+  font-size: 1.5em;
+}
+
+#timeClock {
+  font-size: 3em;
+}
+
+#plusBreak {
+  margin-right: 20px;
+}
