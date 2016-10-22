@@ -59,3 +59,16 @@ h1 {
   bottom: 0;
   right: 0;
 }
+
+#gameController {
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  left: 50%;
+  top: 50%;
+  margin-left: -140px;
+  margin-top: -140px;
+  border-radius: 50%;
+  border: 20px solid #3A4A4D;
+  background-color: #FFFFFF;
+}
