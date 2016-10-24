@@ -37,27 +37,43 @@ h1 {
 }
 
 #leftTop {
-  background-color: #00FF00;
+  background-color: #26D926;
   top: 0;
   left: 0;
+}
+
+#leftTop:hover {
+  background-color: #00FF00;
 }
 
 #rightTop {
-  background-color: #FF0000;
+  background-color: #D92626;
   top: 0;
   right: 0;
 }
 
+#rightTop:hover {
+  background-color: #FF0000;
+}
+
 #leftBottom {
-  background-color: #FFFF00;
+  background-color: #D9D926;
   bottom: 0;
   left: 0;
 }
 
+#leftBottom:hover {
+  background-color: #FFFF00;
+}
+
 #rightBottom {
-  background-color: #0000FF;
+  background-color: #2626D9;
   bottom: 0;
   right: 0;
+}
+
+#rightBottom:hover {
+  background-color: #0000FF;
 }
 
 #gameController {
