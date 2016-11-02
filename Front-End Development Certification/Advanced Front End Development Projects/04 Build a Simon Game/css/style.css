@@ -88,3 +88,12 @@ h1 {
   border: 20px solid #242E30;
   background-color: #FFFFFF;
 }
+
+#gameController h2 {
+  font-family: 'Times New Roman', serif;
+  font-size: 3em;
+  font-weight: 900;
+  text-align: center;
+  color: #000000;
+  margin-top: 20px;
+}
