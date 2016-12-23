@@ -1,0 +1,87 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+  background-color: #30C9E8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+h1 {
+   font-size: 2em;
+   margin: 80px;
+}
+
+caption {
+  display: none;
+}
+
+#tictactoe {
+  background-color: #F9FBFB;
+  margin: 40px auto;
+  padding: 20px;
+  display: none;
+}
+
+#start {
+  width: 348px;
+  height: 348px;
+  margin: 40px auto;
+  padding-top: 100px;
+  background-color: #3A4A4D;
+  border: 22px solid #F9FBFB;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 0;
+  cursor: pointer;
+  background-color: #3A4A4D;
+  font-size: 3em;
+  font-weight: 700;
+} 
+
+a.button {
+  background-color: #FF4531; 
+  color: #FFFFFF;
+  text-decoration: none;
+  margin: 5px;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 30px;
+}
+
+li {
+  display: inline;
+  font-size: 2em;
+  font-weight: 700;
+  margin: 20px;
+  cursor: pointer;
+}
+
+#winninginformation {
+  width: 348px;
+  height: 348px;
+  position: absolute;
+  top: 280px;
+  left: 50%;
+  margin-left: -174px;
+  padding-top: 130px;
+  color: #3A4A4D;
+  background-color: rgba(255, 255, 255, 0.7);
+  font-size: 3em;
+  font-weight: 700;
+  display: none;
+}
